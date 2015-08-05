@@ -53,5 +53,5 @@
   $app->get("/Job_opening", function() {
     return "OTHER HTML HERE";
   });
-
+  return $app;
  ?>
